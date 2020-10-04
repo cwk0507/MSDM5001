@@ -12,7 +12,7 @@ Q2:
 
 Q3:
 1. Change directory to where the file MSDM 5001_h1_q3.sh is located.
-2. Run the command "bash MSDM5001_h1_q3.sh blocklist.xml". Here, the filr blocklist.xml is located at the same directory of MSDM5001_h1_q3.sh. If not, the path of blocklist.xml should be specified.
+2. Run the command "bash MSDM5001_h1_q3.sh blocklist.xml". Here, the file blocklist.xml is located at the same directory of MSDM5001_h1_q3.sh. If not, the path of blocklist.xml should be specified.
 3. Two files blockid.txt and email.txt will be created.
 4. blockid.txt store the output of Q3.1
 5. email.txt stores the output of Q3.2
